@@ -1,0 +1,16 @@
+.titulos{
+  font: oblique bold 120% cursive;
+}
+
+
+body {
+  width: 90%;
+  height: 90px;
+  background-image: url("../image/ImagenFondo.jpg");
+  background-color: #FFCECB;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-position-y: top;      
+}
