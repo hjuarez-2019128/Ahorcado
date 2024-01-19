@@ -1,0 +1,16 @@
+.Titulo{
+  font: oblique bold 120% cursive
+  color= red;
+}
+
+.fondo{
+  width: 100%;
+  height: 400px;
+  background: url("../image/GYM.jpg")no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-position-y: top;  
+  
+}
